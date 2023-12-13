@@ -1,10 +1,8 @@
 <h1 align='left'>
-  Hi, I'm Madison Han <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DS%20|%20UIX%20|%20ML%20Enthusiast;University+of+Waterloo&width=380&height=45"></a> -->
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Madison+Han!👋;University+of+Waterloo;DS%20|%20ML%20|%20UIX%20Enthusiast&width=380&height=45"></a>
 </h1>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=University+of+Waterloo;DS%20|%20ML%20|%20UIX%20Enthusiast&width=380&height=45"></a>
-
 
 
 
