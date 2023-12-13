@@ -1,62 +1,23 @@
 <h1 align='left'>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DS%20|%20UIX%20|%20ML%20Enthusiast;University+of+Waterloo&width=380&height=45"></a> -->
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Madison+Han!👋;University+of+Waterloo;DS%20|%20ML%20|%20UIX%20Enthusiast&width=380&height=45"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Madison+Han!👋;Stats,+CM+@+UWaterloo;DS%20|%20ML%20|%20UIX%20Enthusiast&width=380&height=45"></a>
 </h1>
 
 
 
 <h3 align="left">Programming Languages<h3>
 <p align="left">
-    <a href="#">
-      <img 
-        alt="C++" 
-        src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    </a>
-    <a href="#">
-      <img 
-        alt="C" 
-        src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">     </a>
-    <a href="#">
-      <img 
-        alt="Python" 
-        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    <a href="#">
-      <img 
-        alt="JavaScript" 
-        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    </a>
-    <a href="#">
-      <img 
-        alt="HTML" 
-        src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    </a>
-    <a href="#">
-      <img 
-        alt="Bash" 
-        src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    </a>
-    <a href="#">
-      <img 
-        alt="LaTex" 
-        src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-    </a>
-    <a href="#">
-      <img 
-        alt="R" 
-        src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-    </a>
-    <a href="#">
-      <img 
-        alt="Java" 
-        src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <a href="#">
-      <img 
-        alt="C#" 
-        src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    </a>
-  </a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+    <a href="#"><img alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
 </p>
 
 <hr/>
@@ -66,9 +27,21 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="Debain" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"></a>
-    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></a>
     <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+    <a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"></a>
+
+</p>
+
+<hr/>
+
+<h3 align="left">Databases, Cloud Hosting, and CI/CD<h3>
+<p align="left">
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+<!--     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a> -->
 </p>
 
 <hr />
@@ -80,13 +53,3 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
 </p>
   
-<hr/>
-
-<h3 align="left">Databases, Cloud Hosting, and CI/CD<h3>
-<p align="left">
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-</p>
-
