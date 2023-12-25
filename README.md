@@ -1,7 +1,6 @@
 <h1 align='left'>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;DS%20|%20UIX%20|%20ML%20Enthusiast;University+of+Waterloo&width=380&height=45"></a> -->
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Madison+Han!👋;Stats,+CM+@+UWaterloo;DS%20|%20ML%20|%20UIX%20Enthusiast&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Madison+Han!+%F0%9F%91%8B;%F0%9F%8F%AB+University+of+Waterloo;DS+%7C+ML+%7C+UIX+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
 
