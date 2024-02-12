@@ -40,7 +40,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a> -->
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
 </p>
 
 
