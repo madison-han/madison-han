@@ -5,7 +5,7 @@
 
 <h1>
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=madison-han&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=madison-han&theme=light&hide_border=true)
 </h1> 
 
 
