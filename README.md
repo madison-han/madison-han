@@ -4,8 +4,7 @@
 
 
 <h1>
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=madison-han&theme=black-ice&hide_border=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=madison-han&theme=black-ice&hide_border=true) --> 
 </h1> 
 
 
