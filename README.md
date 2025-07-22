@@ -2,12 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=250&color=00E7FFE4&width=435&lines=Hi%2C+I'm+Madison+Han!;%F0%9F%8F%AB+University+of+Waterloo;Site+in+sidebar!" alt="Typing SVG" /></a>
 </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=madison-han&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
-
-<h1>
-<a href = "https://github-readme-streak-stats.herokuapp.com/?user=madison-han&theme=black-ice&hide_border=true">
-</h1> 
-
 
 <h3 align="left">Programming Languages<h3>
 <p align="left">
