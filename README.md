@@ -3,11 +3,12 @@
 <!-- other good themes: metropolis, mountain, dots, transparent -->
 <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,python,js,java,html,css,bash,r&includeNames=true&theme=metropolis" 
-         style="width: 500px; height: auto;" 
+         style="width: 70vh; height: auto;" 
          alt="GitHub WidgetBox">
 </a>
 <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/skills?tools=npm,powershell,graphql,gatsby,react,nodejs,git,npm,vercel&includeNames=true&theme=metropolis" 
-         style="width: 500px; height: auto;" 
+         style="width: 70vh; height: auto;" 
          alt="GitHub WidgetBox">
 </a>
+
