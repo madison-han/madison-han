@@ -3,26 +3,19 @@
 
 <!-- other good themes: metropolis, mountain, dots, transparent -->
 <a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,python,js,java,html,css,bash,r&includeNames=true&theme=mountain" 
-         style="width: 500px; height: auto;" 
-         style="width: 70vh; height: auto;" 
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,python,js,java,html,css,bash,r&includeNames=true&theme=dots" 
+         style="width: 65vh; height: auto;" 
          alt="GitHub WidgetBox">
 </a>
 <a href="https://github.com/Jurredr/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/skills?tools=npm,powershell,graphql,gatsby,react,nodejs,git,vercel&includeNames=true&theme=dots" 
-         style="width: 500px; height: auto;" 
-         style="width: 70vh; height: auto;" 
-         alt="GitHub WidgetBox">
-</a>
-<a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=npm,powershell,graphql,gatsby,react,nodejs,git,vercel&includeNames=true&theme=metropolis" 
-         style="width: 500px; height: auto;" 
          style="width: 70vh; height: auto;" 
          alt="GitHub WidgetBox">
 </a>
 
 
 
+<!--
 ## Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" alt="Programming Languages" />
