@@ -1,35 +1,35 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=250&color=1ABED1&width=435&lines=Hi%2C+I'm+Madison+Han!;%F0%9F%8F%AB+University+of+Waterloo;Site+in+sidebar!" alt="Typing SVG" /></a>
 
 
-<!-- other good themes: metropolis, mountain, dots, transparent -->
-<a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,python,js,java,html,css,bash,r&includeNames=true&theme=dots" 
-         style="width: 65vh; height: auto;" 
-         alt="GitHub WidgetBox">
-</a>
-<a href="https://github.com/Jurredr/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=npm,powershell,graphql,gatsby,react,nodejs,git,vercel&includeNames=true&theme=dots" 
-         style="width: 70vh; height: auto;" 
-         alt="GitHub WidgetBox">
-</a>
 
 
 
-<!--
-## Languages
+
+### Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" alt="Programming Languages" />
 </p>
 
 
-## Tools
+### Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel&theme=light" alt="Programming Languages" />
 </p>
 
 
-
+<!-- other good themes: metropolis, mountain, dots, transparent -->
+<!--
+<a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,python,js,java,html,css,bash,r&theme=dots" 
+         style="width: 48vw; height: auto;" 
+         alt="GitHub WidgetBox">
+</a>
+<a href="https://github.com/Jurredr/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=npm,powershell,graphql,gatsby,react,nodejs,git,vercel&theme=dots" 
+         style="width: 48vw; height: auto;" 
+         alt="GitHub WidgetBox">
+</a>
 
 
 <table style="border-collapse: collapse; border: none;">
