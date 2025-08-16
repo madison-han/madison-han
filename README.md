@@ -10,8 +10,10 @@
   <summary> <b>Languages</b> </summary>
   <br/>
 
-  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=450 width=450 alt="Programming Languages" />  
-
+  <div align='left'>
+  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages" />  
+  </div>
+  
 <!--
   [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="50" />][bracket]&nbsp;
   [<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="50" />][bracket]&nbsp;
@@ -31,9 +33,11 @@
 <details>
   <summary> <b>Tools</b> </summary>
   <br/>
-    
-  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" height=450 width=450 alt="Tools" />
 
+  <div align='left'>
+    &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" height=425 width=425 alt="Tools" />
+  </div>
+  
   <!--
   [<img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="50" />][bracket]&nbsp;
   [<img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell logo" title="PowerShell" height="50" />][bracket]&nbsp;
