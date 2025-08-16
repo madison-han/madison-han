@@ -7,18 +7,26 @@
 
 <!-- ### `Languages` -->
 <details>
-  <summary> Languages </summary>
+  <summary> <b>Languages</b> </summary>
   <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" alt="Programming Languages" />  
 </details>
 
+
 <details>
-  <summary> Tools </summary>
+  <summary> <b>Tools</b> </summary>
   <br/>
-    <img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=light" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" alt="Tools" />
   
 </details>
 
+<br/>
+
+  <p align='center'>
+  <a href="https://madisonhan.vercel.app"><img src="https://img.icons8.com/fluent/48/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:madisonhan04@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/madisonhan04"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/></a>
+  </p>
 
 <!--
 <table style="border-collapse: collapse; border: none;">
