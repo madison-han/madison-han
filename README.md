@@ -9,10 +9,7 @@
 <details>
   <summary> <b>Languages</b> </summary>
   <br/>
-
-  <div align='left'>
-  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages" />  
-  </div>
+  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages"/>  
   
 <!--
   [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="50" />][bracket]&nbsp;
