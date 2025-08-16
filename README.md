@@ -50,7 +50,7 @@
 </details>
 
 
-<br/><br/>
+<br/>
 <p align='center'>
   <a href="https://madisonhan.vercel.app"><img src="https://img.icons8.com/fluent/36/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:madisonhan04@gmail.com"><img src="https://img.icons8.com/color/36/000000/gmail.png" alt="email"/></a>
