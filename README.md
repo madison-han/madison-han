@@ -6,10 +6,9 @@
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madison-han&custom_title=‎&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<br/>
 
 <!-- ### `Languages` -->
-<div align="center">  
+<div align="left">  
 <details>
   <summary> <b>Languages</b> </summary>
   <br/>
@@ -48,7 +47,7 @@
 </details>
 </div>
 
-<br/>
+<br/><br/>
 <p align='center'>
   <a href="https://madisonhan.vercel.app" target="_blank"><img src="https://img.icons8.com/fluent/36/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:madisonhan04@gmail.com" target="_blank"><img src="https://img.icons8.com/color/36/000000/gmail.png" alt="email"/></a>
