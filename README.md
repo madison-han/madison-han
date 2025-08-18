@@ -1,11 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=250&color=1ABED1&width=435&lines=Hi%2C+I'm+Madison+Han!;%F0%9F%8F%AB+University+of+Waterloo;Site+in+sidebar!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=250&color=1ABED1&width=435&lines=Hi%2C+I'm+Madison+Han!;%F0%9F%8F%AB+University+of+Waterloo;Site+in+sidebar!" alt="Typing SVG" />
+  </a>
 
-
-<!-- react-dark, react, high-contrast, github-compact. custom title has invisible character in between marks here: "‎"	-->
+  <!-- react-dark, react, high-contrast, github-compact. custom title has invisible character in between marks here: "‎"	-->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madison-han&custom_title=‎&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<br/>
+
 <!-- ### `Languages` -->
+<div align="center">  
 <details>
   <summary> <b>Languages</b> </summary>
   <br/>
@@ -22,18 +26,13 @@
   [<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="50" />][bracket]&nbsp;
   [<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="50" />][bracket]&nbsp;
 -->
-
-  
 </details>
 
-
-<details>
+<details >
   <summary> <b>Tools</b> </summary>
   <br/>
 
-  <div align='left'>
-    &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" height=425 width=425 alt="Tools" />
-  </div>
+  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" height=425 width=425 alt="Tools" />
   
   <!--
   [<img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="50" />][bracket]&nbsp;
@@ -46,9 +45,8 @@
   [<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="50" />][bracket]&nbsp;
   [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="50" />][bracket]&nbsp;
   -->
-  
 </details>
-
+</div>
 
 <br/>
 <p align='center'>
