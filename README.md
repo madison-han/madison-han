@@ -8,8 +8,8 @@
 
 
 <!-- ### `Languages` -->
-<div align="left">  
-<details padding="100px">
+<div align="left" padding-bottom="10px">  
+<details>
   <summary> <b>Languages</b> </summary>
   &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages"/>  
   
