@@ -9,7 +9,7 @@
 
 <!-- ### `Languages` -->
 <div align="left">  
-<details>
+<details margin-bottom="10px">
   <summary> <b>Languages</b> </summary>
   &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages"/>  
   
