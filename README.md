@@ -11,6 +11,7 @@
 <div align="left" margin="100px" padding="100px">  
 <details>
   <summary> <b>Languages</b> </summary>
+    <br/>
   &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages"/>  
   
 <!--
@@ -26,9 +27,10 @@
 -->
 </details>
 
+
 <details >
   <summary> <b>Tools</b> </summary>
-
+    <br/>
   &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" height=425 width=425 alt="Tools" />
   
   <!--
