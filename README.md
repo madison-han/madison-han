@@ -1,63 +1,74 @@
+
+
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=250&color=1ABED1&width=435&lines=Hi%2C+I'm+Madison+Han!;%F0%9F%8F%AB+University+of+Waterloo;Site+in+sidebar!" alt="Typing SVG" />
   </a>
+
 
   <!-- react-dark, react, high-contrast, github-compact. custom title has invisible character in between marks here: "‎"	-->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madison-han&custom_title=‎&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-<!-- ### `Languages` -->
-<div align="left" margin="100px" padding="100px">  
-<details>
-  <summary> <b>Languages</b> </summary>
-    <br/>
-  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp,c,python,js,java,html,css,bash,r&theme=dark" height=425 width=425 alt="Programming Languages"/>  
-  
-<!--
-  [<img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=00599C" alt="C++ logo" title="C++" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=ED8B00" alt="Java logo" title="Java" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Bash-282C34?logo=gnubash&logoColor=4EAA25" alt="Bash logo" title="Bash" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/R-282C34?logo=r&logoColor=276DC3" alt="R logo" title="R" height="50" />][bracket]&nbsp;
--->
-</details>
-
-
-<details >
-  <summary> <b>Tools</b> </summary>
-    <br/>
-  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm,powershell,graphql,gatsby,react,nodejs,git,vercel,vscode&theme=dark" height=425 width=425 alt="Tools" />
-  
-  <!--
-  [<img src="https://img.shields.io/badge/npm-282C34?logo=npm&logoColor=CB3837" alt="npm logo" title="npm" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/PowerShell-282C34?logo=powershell&logoColor=5391FE" alt="PowerShell logo" title="PowerShell" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Gatsby-282C34?logo=gatsby&logoColor=663399" alt="Gatsby logo" title="Gatsby" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Node.js-282C34?logo=nodedotjs&logoColor=339933" alt="Node.js logo" title="Node.js" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/Vercel-282C34?logo=vercel&logoColor=000000" alt="Vercel logo" title="Vercel" height="50" />][bracket]&nbsp;
-  [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visualstudiocode&logoColor=007ACC" alt="VS Code logo" title="VS Code" height="50" />][bracket]&nbsp;
-  -->
-</details>
-</div>
-
-<br/><br/>
 <p align='center'>
   <a href="https://madisonhan.vercel.app" target="_blank"><img src="https://img.icons8.com/fluent/36/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:madisonhan04@gmail.com" target="_blank"><img src="https://img.icons8.com/color/36/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/madisonhan04" target="_blank"><img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="linkedin"/></a>
 </p>
 
-[bracket]: #bracket
-<!--
-<!-- For pinned repositories 
-https://gist.github.com/ 
 
 
--->
+
+<h3 align="left">Programming Languages<h3>
+<p align="left">
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
+<!--     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<!--     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a> --> 
+    <a href="#"><img alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"></a>
+</p>
+
+
+<h3 align="left">Software and Tools<h3>
+<p align="left">
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<!--     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a> -->
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<!--     <a href="#"><img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a> -->
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></a>
+    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"></a>
+    <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+    <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
+    <a href="#"><img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+</p>
+
+
+<h3 align="left">Databases, Cloud Hosting, and CI/CD<h3>
+<p align="left">
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
+    <a href="#"><img alt="GitLab" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a> 
+</p>
+
+
+<h3 align="left">Frameworks and Libraries<h3>
+<p align="left">
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+   <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
+   <a href="#"><img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"></a>
+   <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="MatPlotLib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"></a>
+
+</p>
+    
