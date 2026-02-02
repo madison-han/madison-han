@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=4000&pause=250&color=1ABED1&width=435&lines=Hi%2C+I'm+Madison+Han!;%F0%9F%8F%AB+University+of+Waterloo;Site+in+sidebar!" alt="Typing SVG" />
   </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madison-handison-han&theme=cobalt)](https://git.io/streak-stats)
 
   <!-- react-dark, react, high-contrast, github-compact. custom title has invisible character in between marks here: "‎"	-->
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=madison-han&custom_title=‎&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
